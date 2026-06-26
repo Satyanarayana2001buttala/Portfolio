@@ -55,6 +55,14 @@
   height: auto;
 }
 
+.portfolio-repo-btn-div {
+  display: flex;
+  gap: 16px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-top: 25px;
+}
+
 /* Media Query */
 @media (max-width: 1380px) {
   .greeting-text {
@@ -91,5 +99,6 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    gap: 12px;
   }
 }

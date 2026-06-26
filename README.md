@@ -2,7 +2,7 @@
 
 Welcome to my personal developer portfolio website! This repository contains the source code for my portfolio, showcasing my skills, projects, education, and contact details.
 
-🌐 **Live Website:** [https://Satyanarayana2001buttala.github.io/Portfolio](https://Satyanarayana2001buttala.github.io/Portfolio)
+🌐 **Live Website:** [https://satyanarayana.vercel.app](https://satyanarayana.vercel.app)
 
 ---
 
