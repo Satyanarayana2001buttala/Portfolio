@@ -2,7 +2,7 @@
 
 Welcome to my personal developer portfolio website! This repository contains the source code for my portfolio, showcasing my skills, projects, education, and contact details.
 
-🌐 **Live Website:** [https://satyanarayana.vercel.app](https://absatya.vercel.app)
+🌐 **Live Website:** [https://absatya.vercel.app](https://absatya.vercel.app)
 
 ---
 
